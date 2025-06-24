@@ -5,6 +5,13 @@
 
   <p> Text of section. </p>
 
+  <?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Section Title</title>
+
+  <p> Text of section. </p>
+
 </section> <exercise label="number-theory-proof" adaptive="yes">
   <title>Parsons Problem, Mathematical Proof</title>
   <idx>even numbers</idx>
@@ -78,3 +85,5 @@
     </p>
   </hint>
 </exercise>
+
+</section> 
